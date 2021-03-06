@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contact-test/static/css/main.640ffdc6.chunk.css",
+    "main.js": "/contact-test/static/js/main.2dffa316.chunk.js",
+    "main.js.map": "/contact-test/static/js/main.2dffa316.chunk.js.map",
+    "runtime-main.js": "/contact-test/static/js/runtime-main.25b5da59.js",
+    "runtime-main.js.map": "/contact-test/static/js/runtime-main.25b5da59.js.map",
+    "static/js/2.a7ff66dd.chunk.js": "/contact-test/static/js/2.a7ff66dd.chunk.js",
+    "static/js/2.a7ff66dd.chunk.js.map": "/contact-test/static/js/2.a7ff66dd.chunk.js.map",
+    "index.html": "/contact-test/index.html",
+    "static/css/main.640ffdc6.chunk.css.map": "/contact-test/static/css/main.640ffdc6.chunk.css.map",
+    "static/js/2.a7ff66dd.chunk.js.LICENSE.txt": "/contact-test/static/js/2.a7ff66dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b5da59.js",
+    "static/js/2.a7ff66dd.chunk.js",
+    "static/css/main.640ffdc6.chunk.css",
+    "static/js/main.2dffa316.chunk.js"
+  ]
+}
