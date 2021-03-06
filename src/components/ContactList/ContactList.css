@@ -1,0 +1,19 @@
+p {
+    margin: 5px;
+}
+
+.nameList {
+ width: 330px;
+ padding-left: 0px;
+}
+
+.buttonNameList {
+ margin-left: 15px;
+
+}
+
+.nameList li {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
