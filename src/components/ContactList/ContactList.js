@@ -9,7 +9,7 @@ const ContactList = ({ data }) => (
                 <li key={uuidv4()}>
                     <p>{contact.name} {contact.lastname}</p>
                     <p>Возраст: {contact.age}</p>
-                    <p>Пол: {contact.sex}</p>
+                    {contact.sex === 'f' ? (<p>Пол: мужской</p>) : (<p>Пол: женский</p>)}
                 </li>
             ))}
         </ul>
